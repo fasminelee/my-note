@@ -1,2 +1,6 @@
 gh-pages
+
+# npm i --save gh-pages
 node_modules
+package-lock.json
+
